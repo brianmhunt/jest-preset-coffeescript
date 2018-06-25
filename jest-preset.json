@@ -7,7 +7,7 @@
     "coffee.md"
   ],
   "transform": {},
-  "testRegex": "tests?/.*\\.(coffee|litcoffee|coffee.md)$",
+  "testRegex": "/.*\\.(coffee|litcoffee|coffee.md)$",
   "testPathIgnorePatterns": [
     "node_modules",
     "fixtures"
