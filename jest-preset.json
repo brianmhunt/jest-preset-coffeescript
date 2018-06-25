@@ -1,0 +1,15 @@
+{
+  "moduleFileExtensions": [
+    "js",
+    "json",
+    "coffee",
+    "litcoffee",
+    "coffee.md"
+  ],
+  "transform": {},
+  "testRegex": "tests?/.*\\.(coffee|litcoffee|coffee.md)$",
+  "testPathIgnorePatterns": [
+    "node_modules",
+    "fixtures"
+  ]
+}
